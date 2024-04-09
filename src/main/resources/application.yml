@@ -1,6 +1,6 @@
 eureka:
   instance:
-    hostname: https://eureka-server-bp2h.onrender.com
+    hostname: eureka-server-bp2h.onrender.com
   client:
     register-with-eureka: false
     fetch-registry: false
